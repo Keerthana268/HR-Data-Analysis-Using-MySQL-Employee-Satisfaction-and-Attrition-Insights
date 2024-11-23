@@ -1,4 +1,4 @@
-# HR-Data-Analysis-Using-MySQL-Employee-Satisfaction-and-Attrition-Insights
+# HR Data Analysis Using MySQL Employee Satisfaction and Attrition Insights
 
 ## Project Overview
 
